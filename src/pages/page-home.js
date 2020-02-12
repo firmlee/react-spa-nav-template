@@ -6,7 +6,7 @@ class PageHome extends React.Component {
         return (
             <div>
                 <h1>This is Page Home.</h1>
-                <a href="https://github.com/l00389/react-template">GitHub</a>
+                <a href="https://github.com/l00389/react-spa-nav-template">GitHub</a>
             </div>
         );
     }
