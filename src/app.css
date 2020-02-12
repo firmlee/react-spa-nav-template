@@ -1,0 +1,39 @@
+.app {
+  text-align: center;
+}
+
+.app-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.app-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.app-title {
+  font-size: 1.5em;
+}
+
+.app-intro {
+  font-size: large;
+}
+
+.login-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  padding: 20px;
+  background: #393;
+  color: #fff;
+  transform: translate(-50%, 40%);
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

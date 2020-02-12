@@ -1,0 +1,13 @@
+.logo {
+    width: 120px;
+    height: 31px;
+    margin: 16px 28px 16px 0;
+    float: left;
+  }
+  
+.avatar {
+    width: 31px;
+    height: 31px;
+    margin: 16px 28px 16px 0;
+    float: right;
+  }
